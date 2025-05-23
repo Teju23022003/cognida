@@ -34,8 +34,8 @@ Evolution Reporter: Summarizes memory and belief drift.
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/evolving-persona-ai.git
-cd evolving-persona-ai
+git clone https://github.com/Teju23022003/cognida.git
+cd cognida
 
 2. Set Up Environment
 
