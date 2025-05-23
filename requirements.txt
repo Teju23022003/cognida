@@ -1,0 +1,17 @@
+# requirements.txt
+
+# For sentence embedding and vector encoding
+sentence-transformers==2.2.2
+transformers==4.38.2
+torch>=1.10
+
+# For handling JSON, datetime, etc. (standard libs - listed for completeness)
+# No need to install: json, datetime
+
+# Optional: for future vector DB integration
+faiss-cpu==1.7.4  # or chromadb==0.4.24
+
+# If using logging/CLI enhancements
+rich==13.7.0
+llama-cpp-python==0.2.65
+numpy

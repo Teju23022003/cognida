@@ -1,0 +1,29 @@
+{
+  "memory": [
+    {
+      "timestamp": "2025-05-22T22:52:38.565942",
+      "event": {
+        "user": "hello"
+      }
+    },
+    {
+      "timestamp": "2025-05-22T22:53:11.595270",
+      "event": {
+        "user": "i have a mild head ache"
+      }
+    },
+    {
+      "timestamp": "2025-05-22T23:15:41.296591",
+      "event": {
+        "user": "what do you think about earth?"
+      }
+    },
+    {
+      "timestamp": "2025-05-22T23:15:56.823190",
+      "event": {
+        "user": "answer me"
+      }
+    }
+  ],
+  "beliefs": {}
+}
